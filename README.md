@@ -2,5 +2,5 @@ Terminal üzerinde çalışan istediğin sayıda random indilizce kelime üreten
 
 Çalıştırmak için terminalde ruby until_random.rb yazmanız yeterli.
 
-##**yapılacaklar**
-- Türkçe çevirileri eklenmeli.
+#### **Yapılacaklar**
+- Türkçe çevirileri eklenecek.
